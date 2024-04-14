@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/hoodies": "pages/hoodies.js",
+  "/product/[slug]": "pages/product/[slug].js",
+  "/checkout": "pages/checkout.js",
+  "/api/pincode": "pages/api/pincode.js",
+  "/api/pretransaction": "pages/api/pretransaction.js",
+  "/": "pages/index.js"
+}
